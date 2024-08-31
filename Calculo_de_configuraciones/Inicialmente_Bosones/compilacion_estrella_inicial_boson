@@ -1,0 +1,2 @@
+gcc -o primer_estrella_bosonica.exe conf_solo_boson.c -lm
+./primer_estrella_bosonica.exe

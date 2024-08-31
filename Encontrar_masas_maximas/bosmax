@@ -1,0 +1,1 @@
+gcc -o masmaxBosones Masa_maxima_bosones.c -lm

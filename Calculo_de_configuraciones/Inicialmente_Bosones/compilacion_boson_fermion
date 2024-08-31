@@ -1,0 +1,2 @@
+gcc -o configuraciones_boson_fermion.exe mixBoson_Fermion.c -lm
+./configuraciones_boson_fermion.exe
